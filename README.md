@@ -30,3 +30,4 @@
 <p>Se a branch principal for atualizada por outro desenvolvedor enquanto você estiver trabalhando, você precisará trazer essas novidades para a sua branch.</p>
 
 <p>git merge <nome-da-branch>: Pega o histórico de uma branch (como a main atualizada) e mescla com a branch em que você está no momento.</p>
+# Treina_Recife
