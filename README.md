@@ -1,3 +1,13 @@
+# DÉBORA CALDAS
+
+# GIT
+
+## Estados
+
+* Modificado (modified);
+* Preparado (staged/index)
+* Consolidado (comitted);
+
 # felipe
 
 Aqui vão 5 comandos básicos do Git que você precisa conhecer:
